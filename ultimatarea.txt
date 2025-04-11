@@ -1,0 +1,14 @@
+Hector Lopez 30594555
+Diego Gonzalez 28249995
+
+Solución óptima encontrada:
+Costo total mínimo: $4600
+
+Detalle semana por semana:
+Semana | Demanda | Trabajadores | Costo Contratación | Costo Excedente | Costo Acumulado
+-------|---------|--------------|--------------------|-----------------|----------------
+     1 |       5 |            5 |               1400 |               0 |           1400
+     2 |       7 |            7 |                800 |               0 |           2200
+     3 |       8 |            8 |                600 |               0 |           2800
+     4 |       4 |            8 |                  0 |            1200 |           4000
+     5 |       6 |            6 |                  0 |             600 |           4600
